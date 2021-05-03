@@ -1,0 +1,9 @@
+body {
+    background-color: Blue;
+    text-align: center;
+}
+
+.profile {
+    width: 475px;
+    margin-bottom: 50px;
+    border-radius: 10%;
